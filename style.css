@@ -3,6 +3,12 @@ body {
     height: 100vh;
 }
 
+.header {
+    text-align: center;
+    color: white;
+    padding-top: 20vh;
+}
+
 .title {
     text-align: center;
     color: white;
