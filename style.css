@@ -1,34 +1,36 @@
 body {
-    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, limegreen, skyblue);
+    height: 100vh;
 }
 
-header h1 {
+.title {
     text-align: center;
+    color: white;
+    padding-top: 20vh;
 }
 
-form {
-    width: 500px;
-    margin: 0 auto;
-    text-align: left;
+.description {
+    text-align: center;
+    color: white;
+    padding: 20px;
 }
 
-label, input, textarea {
-    display: block;
-    margin: 10px 0;
-    width: 100%;
+.list {
+    text-align: center;
+    color: white;
+    padding: 20px;
 }
 
-input[type="submit"] {
-    width: auto;
+.back-button {
+    text-align: center;
+    padding-bottom: 20vh;
+}
+
+.back-link {
+    background-color: skyblue;
+    color: white;
     padding: 10px 20px;
-    background-color: #333;
-    color: #fff;
-    border: none;
     border-radius: 5px;
-    cursor: pointer;
-}
-
-footer {
-    text-align: center;
-    margin-top: 20px;
+    text-decoration: none;
+    display: inline-block;
 }
