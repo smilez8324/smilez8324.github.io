@@ -17,17 +17,19 @@ body {
 }
 
 h1 {
-    font-size: 36px;
-    color: white;
+    display: block;
     text-align: center;
+    font-size: 36px;
+    margin-top: 50px;
 }
 
 p {
-    font-size: 18px;
-    color: white;
+    display: block;
     text-align: center;
+    font-size: 18px;
     margin-top: 20px;
 }
+
 
 ul {
     display: flex;
