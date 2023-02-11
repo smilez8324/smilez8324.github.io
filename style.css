@@ -45,3 +45,24 @@ a {
     color: white;
     text-decoration: none;
 }
+
+.about-container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header {
+    font-size: 36px;
+    margin-top: 40px;
+}
+
+.description {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.back-button {
+    margin-top: 40px;
+    text-align: center;
+}
